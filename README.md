@@ -11,15 +11,15 @@ https://thiagodpaulla.github.io/semaforo.github.io/
 
 <!--ts-->
  
- * [Tecnologias](#tecnologias)  
+ * [Projeto](#projeto)  
  * [Tecnologias](#tecnologias) 
- * [Tecnologias](#tecnologias) 
+ * [licenca](#licenca) 
  
  <!--te-->
 
 
-# Projeto 💻
-semaforo.github.io
+# Projeto 
+💻
 
 Procurando fazer um código semântico e limpo, pensando nas funções pequenas e de responsabilidade única
 Foram 4 imagens e 4 comandos
@@ -56,9 +56,9 @@ Função ternaria primeiro ele adiciona mais um, depois ele atribui dentro de um
 
 
 
-# Tecnologias 
-🚀
-O projeto foi desenvolvido usando as seguintes tecnologias
+ # Tecnologias 
+
+🚀 O projeto foi desenvolvido usando as seguintes tecnologias
 
 
 ➜ JavaScript
@@ -68,5 +68,5 @@ O projeto foi desenvolvido usando as seguintes tecnologias
 ➜ CSS
 
 
-# Licença 📂 
-Distribuído sob a licença MIT. Veja LICENSE para mais informações.
+# Licenca 
+📂 Distribuído sob a licença MIT. Veja LICENSE para mais informações.

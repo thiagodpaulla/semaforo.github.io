@@ -1,8 +1,9 @@
 semaforo.github.io
-# Olá e seja bem vindo ao  meu repositório;
+# Olá e seja bem vindo ao  meu repositório
 ## Conheça o Semaforo
 ![](https://github.com/thiagodpaulla/semaforo.github.io/blob/main/Sem%C3%A1foro%20.gif)
-## Fique a vontade para conhecer o projeto no link:
+## Fique a vontade para interagir com o projeto no link:
+https://thiagodpaulla.github.io/semaforo.github.io/
 
 ### Entenda um pouco mais sobre como foi criado.
 

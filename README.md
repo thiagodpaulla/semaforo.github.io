@@ -1,10 +1,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagodepaulla/)](https://www.linkedin.com/in/thiagodepaulla/)   [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/thiagodpaulla)](https://github.com/thiagodpaulla)
 
 
-
-
-
-
 # Olá e seja bem vindo ao  meu repositório
 ## Conheça o Semaforo
 ![](https://github.com/thiagodpaulla/semaforo.github.io/blob/main/Sem%C3%A1foro%20.gif)
@@ -66,8 +62,3 @@ O projeto foi desenvolvido usando as seguintes tecnologias
 
 # 📂 Licença
 Distribuído sob a licença MIT. Veja LICENSE para mais informações.
-
-
-Gostou? entre em contato comigo e vamos conversar 
-
-➜ https://www.linkedin.com/in/thiagodepaulla/ 

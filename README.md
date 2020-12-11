@@ -52,8 +52,8 @@ Função ternaria primeiro ele adiciona mais um, depois ele atribui dentro de um
 
 
 
-# 🚀 Tecnologias
-
+# Tecnologias
+🚀
 O projeto foi desenvolvido usando as seguintes tecnologias
 
 

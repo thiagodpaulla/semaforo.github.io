@@ -1,7 +1,7 @@
 semaforo.github.io
 # Olá e seja bem vindo ao  meu repositório;
 ## Conheça o Semaforo
-![](https://github.com/thiagodpaulla/semaforo.github.io/blob/main/Sem%C3%A1foro%20-%20Brave%202020-12-11%2014-24-46.mp4)
+![](https://github.com/thiagodpaulla/semaforo.github.io/blob/main/Sem%C3%A1foro%20.gif)
 ## Fique a vontade para conhecer o projeto no link:
 
 ### Entenda um pouco mais sobre como foi criado.

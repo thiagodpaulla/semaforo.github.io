@@ -11,7 +11,9 @@ https://thiagodpaulla.github.io/semaforo.github.io/
 
 <!--ts-->
  
- * [Tecnologias](#tecnologias)   * [Projeto](#Projeto) * [Licença](#Licença)
+ * [Tecnologias](#tecnologias)  
+ * [Projeto](#Projeto) 
+ * [Licença](#Licença)
     
  <!--te-->
 

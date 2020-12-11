@@ -1,4 +1,3 @@
-semaforo.github.io
 # Olá e seja bem vindo ao  meu repositório
 ## Conheça o Semaforo
 ![](https://github.com/thiagodpaulla/semaforo.github.io/blob/main/Sem%C3%A1foro%20.gif)

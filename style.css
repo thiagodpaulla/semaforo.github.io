@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10vh;
+}
+
+.button{
+    height: 5vh;
+    width: 120px;
+    border-radius: 10px;
+    cursor:pointer;
+    background-color: rgb(189, 189, 180);
+    box-shadow: black;
+    
+}

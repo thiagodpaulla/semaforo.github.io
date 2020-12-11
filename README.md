@@ -9,6 +9,7 @@ https://thiagodpaulla.github.io/semaforo.github.io/
 
 ### Entenda um pouco mais sobre como foi criado.
 
+ * [Tecnologias](#tecnologias)
 
 # 💻 Projeto
 semaforo.github.io

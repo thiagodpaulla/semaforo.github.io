@@ -10,7 +10,9 @@ https://thiagodpaulla.github.io/semaforo.github.io/
 ### Entenda um pouco mais sobre como foi criado.
 
 <!--ts-->
- * [Tecnologias](#tecnologias)
+ * [Tecnologias](#tecnologias)   * [Projeto] (#projetos)   * [Licença] (#Licença)
+
+
  <!--te-->
 
 

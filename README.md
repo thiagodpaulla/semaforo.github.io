@@ -1,64 +1,67 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagodepaulla/)](https://www.linkedin.com/in/thiagodepaulla/)   [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/thiagodpaulla)](https://github.com/thiagodpaulla)
 
 
-# Olá e seja bem vindo ao  meu repositório
-## Conheça o Semaforo
+# Hello and welcome to my repository
+## Meet traffic light
+
 ![](https://github.com/thiagodpaulla/semaforo.github.io/blob/main/Sem%C3%A1foro%20.gif)
-## Fique a vontade para interagir com o projeto no link:
+
+## Feel free to interact with the project at the link:
+
 https://thiagodpaulla.github.io/semaforo.github.io/
 
-### Entenda um pouco mais sobre como foi criado.
-
-<!--ts-->
- 
- * [Projeto](#projeto)  
- * [Tecnologias](#tecnologias) 
- * [licenca](#licenca) 
- 
- <!--te-->
+### Stretch a little more and, know a little more than I've been doing:
 
 
-# Projeto 
+
+https://thiagodpaulla.github.io/
+
+### Understand a little more about how it was created.
+
+  * [Project](#project)
+  * [Technologies](#technologies)
+  * [License](#license)
+
+
+
+# Project
 💻
 
-Procurando fazer um código semântico e limpo, pensando nas funções pequenas e de responsabilidade única
-Foram 4 imagens e 4 comandos
+Trying to make semantic and clean code, thinking about small functions and sole responsibility
+There were 4 images and 4 commands
 
-Utilizei o VScode
-Dentro do HTML eu criei uma div img e na sequencia em outra div criei quatro botões e atribui a eles um id relativos a cor do semáforo e um a função automático.
-Dentro do HTML eu fiz a chamada do arquivo JS e também do CSS que é um css básico onde existe uma centralização, e algumas orientações para o main, como altura etc e um gap(espaço) de 10vh entre as duas dives para não ficarem coladas a imagem aos botões.
+I used VScode
+Inside the HTML I created an img div and then in another div I created four buttons and assigned them an id related to the color of the traffic light and an automatic function.
+Inside the HTML I called the JS file and also the CSS which is a basic css where there is centralization, and some guidelines for the main, such as height etc. and a gap (space) of 10h between the two dives so they are not stuck the image to the buttons.
 
-Dentro do Arquivo JS foram feitas os seguintes passos:
+Within the JS file, the following steps were taken:
 
-Declarei um objeto const para receber o id img e na sequencia criei um elemento pai e atraves do elemento pai eu sei e qual dos elementos o usuário clicou.
-isso foi feito criando um const que recebeu o arquivo o id Button anteriormente declarado e na sequencia usei o addEventListener para escutar em qual botão o usuário estava clicando pela função traffcLigth e atribui a uma errolfunction
+I declared a const object to receive the id img and in the sequence I created a parent element and through the parent element I know and which element the user clicked.
+this was done by creating a const that received the file the id Button previously declared and then I used addEventListener to listen to which button the user was clicking through the traffcLigth function and assigns it to an errolfunction
 
-Mas como saber em qual botão ele clicou ?
-Quando atribuímos uma função ao addEventListener ou callback, este callback recebe um argumento do addEventListener e este argumento é o evento em que foi clicado, e ele armazena uma serie de informações inclusive o target de qual botão foi clicado.
-com isso é possível atribuir este evento a uma const e assim poder ter controle do que fazer com cada interseção do usuário.
+But how do you know which button he clicked on?
+When we assign a function to the addEventListener or callback, this callback takes an argument from the addEventListener and this argument is the event it was clicked on, and it stores a series of information including the target from which button was clicked.
+with this it is possible to assign this event to a const and thus be able to control what to do with each user's intersection.
 
-após isso foi criado uma objeto turnOn onde o programa passou a a receber as funções das imagens.
+after that, a turnOn object was created where the program started to receive the functions of the images.
 
-Mas com se chama o método de um objeto ?
-Lembrando que as informações inseridas dentro de um objeto recebe (,) e não (;) pois é como se tudo fosse uma linha só.
-usando o evento, o alvo, e o id do alvo ficando [event.target.id]
+But what is the method of an object called?
+Remembering that the information inserted inside an object receives (,) and not (;) because it is as if everything were just one line.
+using the event, the target, and the target id getting [event.target.id]
 
-Usando uma função de intervalo no java script
+Using an interval function in java script
 
-usando o setInterval que executa uma função dentro de um intervalo de tempo que é determinado a ele, aqui no caso foi definido 1segundo.
-
-
-Para isso eu tive que criar uma função changecolor, e usando um array com as cores.
-depois criando uma variável global tipo let.(pois ela vai mudar)
-
-Função ternaria primeiro ele adiciona mais um, depois ele atribui dentro de uma errol function.
+using setInterval that executes a function within a time interval that is determined for it, here in this case 1 second was defined.
 
 
+For that I had to create a changecolor function, and using an array with the colors.
+then creating a global variable type let. (because it will change)
 
+Tender function first he adds one more, then he assigns it inside an errol function.
 
- # Tecnologias 
+# Technologies
 
-🚀 O projeto foi desenvolvido usando as seguintes tecnologias
+🚀 The project was developed using the following technologies
 
 
 ➜ JavaScript
@@ -68,5 +71,5 @@ Função ternaria primeiro ele adiciona mais um, depois ele atribui dentro de um
 ➜ CSS
 
 
-# Licenca 
-📂 Distribuído sob a licença MIT. Veja LICENSE para mais informações.
+# License
+📂 Distributed under the MIT license. See LICENSE for more information.
